@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="url_getter_from_a_string"
+        android:label="URL Getter"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
